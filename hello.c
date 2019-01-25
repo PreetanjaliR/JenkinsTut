@@ -2,6 +2,6 @@
 int main()
 {
 	printf("Hello Moum");
-printf("Had a really bad day :(");
+printf("Had a bad day :(");
 	return 0;
 }
